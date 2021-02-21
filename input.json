@@ -1,0 +1,19 @@
+{
+  "APP_SECRET": "NekvsXuyQLiWxqTsuBwyX3fezzdbdbTP",
+  "APP_URL": "https://account.codeday.org",
+  "AUTH0_CLIENT_ID": "fTXJ7i0XJVzQ5k2bNUHx2NqDt64Cc36t",
+  "AUTH0_CLIENT_SECRET": "XVyGam356OrOUPff0ObYZRz2B5tQ8hcOns23YOm5_rmU7BWtqsVmcsqSHTdMN5-N",
+  "AUTH0_DOMAIN": "auth.codeday.org",
+  "AUTH0_HOOK_SHARED_SECRET": "wjpsHBKJnLtU48KX9dFs",
+  "AUTH0_MANAGEMENT_DOMAIN": "srnd.auth0.com",
+  "AUTH0_MENTOR_ROLE": "rol_jNgkPoGBlPiNl722",
+  "AUTH0_VOLUNTEER_ROLE": "rol_Z10C6Hfr4bfqYa4r",
+  "CONTENTFUL_SPACE_ID": "d5pti1xheuyu",
+  "CONTENTFUL_TOKEN": "UI8E_zI7DrhJLQKljbGM18bvHfKFte3Y1WM331bM9O0",
+  "GRAPH_SECRET": "Bc3dtedvnoGKDGqxp",
+  "MENTOR_CODE": "bronze-fly",
+  "UPLOADER_ALLOWED_URL_PREFIX": "https://img.codeday.org/",
+  "UPLOADER_SECRET": "",
+  "UPLOADER_URL": "http://upload.codeday.cloud",
+  "VOLUNTEER_CODE": "iron-flea,iron flea"
+}
